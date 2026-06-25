@@ -1,0 +1,6 @@
+{
+  "name": "Cửa Hàng Sách Online",
+  "description": "Cửa hàng sách trực tuyến hiện đại tích hợp thanh toán QR tiện lợi và hệ thống gợi ý sách thông minh bằng AI (Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
